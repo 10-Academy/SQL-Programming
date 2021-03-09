@@ -24,3 +24,6 @@ That stands for both – a process of designing a database model as well as when
 Understanding these relations is somehow natural and not so complex but is still essential in the database theory (and practice).
 
 Read More [Sqlshack](https://www.sqlshack.com/learn-sql-types-of-relations/)
+
+
+Here is another useful link as a test: https://www.youtube.com/watch?v=90X5NJleYJQ
