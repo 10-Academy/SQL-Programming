@@ -1,4 +1,32 @@
-[https://www.tutorialspoint.com/sql/sql-create-table.htm](Creating Tables in SQL) -- Tutorials Point Articles
+Creating a basic table involves naming the table and defining its columns and each column's data type.
 
-[https://www.w3schools.com/sql/sql_create_table.asp](Creating Tables in SQL) -- w3schools Tutorials
+The SQL CREATE TABLE statement is used to create a new table.
+
+Syntax
+The basic syntax of the CREATE TABLE statement is as follows −
+
+CREATE TABLE table_name(
+   column1 datatype,
+   column2 datatype,
+   column3 datatype,
+   .....
+   columnN datatype,
+   PRIMARY KEY( one or more columns )
+);
+
+Read More [https://www.tutorialspoint.com/sql/sql-create-table.htm](Creating Tables in SQL) 
+
+
+The SQL CREATE TABLE Statement
+The CREATE TABLE statement is used to create a new table in a database.
+
+Syntax
+CREATE TABLE table_name (
+    column1 datatype,
+    column2 datatype,
+    column3 datatype,
+   ....
+);
+
+Read More [https://www.w3schools.com/sql/sql_create_table.asp](Creating Tables in SQL)
 
