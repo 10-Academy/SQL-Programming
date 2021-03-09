@@ -14,7 +14,7 @@ CREATE TABLE table_name(
    PRIMARY KEY( one or more columns )
 );
 
-Read More [https://www.tutorialspoint.com/sql/sql-create-table.htm](Creating Tables in SQL) 
+Read More [Creating Tables in SQL](https://www.tutorialspoint.com/sql/sql-create-table.htm) 
 
 
 The SQL CREATE TABLE Statement
@@ -28,5 +28,5 @@ CREATE TABLE table_name (
    ....
 );
 
-Read More [https://www.w3schools.com/sql/sql_create_table.asp](Creating Tables in SQL)
+Read More [Creating Tables in SQL](https://www.w3schools.com/sql/sql_create_table.asp)
 
