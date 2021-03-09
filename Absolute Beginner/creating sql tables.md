@@ -1,4 +1,4 @@
-###Creating tables in tutorialspoint
+### Creating tables in tutorialspoint
 
 Creating a basic table involves naming the table and defining its columns and each column's data type.
 
@@ -18,7 +18,7 @@ CREATE TABLE table_name(
 
 Read More [Creating Tables in SQL](https://www.tutorialspoint.com/sql/sql-create-table.htm)
 
-###Creating tables in w3schools
+### Creating tables in w3schools
 The SQL CREATE TABLE Statement
 The CREATE TABLE statement is used to create a new table in a database.
 
