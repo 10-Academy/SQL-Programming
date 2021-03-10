@@ -18,3 +18,5 @@ The answer? It can be.
 
 But given enough time and the right approach, learning SQL [Read More](https://www.newhorizons.com/article/the-best-way-to-learn-sql-from-it-training-experts)
 
+### SQL ESSENTIALS: THE BEGINNER’S GUIDE TO SQL LANGUAGE VIA UDEMY
+A 3.5 hours long tutorials with downloadable resources and other interactive projects. [Learn More](https://www.udemy.com/sql-essentials/)
