@@ -16,3 +16,15 @@ Learners will learn about:
 4. Writing Efficient Queries
 
 [Kaggle Advanced SQL](https://www.kaggle.com/learn/advanced-sql)
+
+### DEVELOPING SQL DATABASES VIA EDX
+A good course that is extremely rich and free
+
+What you'll learn <br>
+Skip What you'll learn<br>
+Learn and apply foundational knowledge of the SQL language<br>
+How to create a database in the cloud<br>
+How to use string patterns and ranges to query data<br>
+How to sort and group data in result sets and by data type<br>
+How to analyze data using Python
+[Visit the Website](https://www.edx.org/course/sql-for-data-science?index=product&queryID=42e15053a99ff47b84694f319f1bb15b&position=6)
