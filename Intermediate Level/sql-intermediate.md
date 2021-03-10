@@ -17,7 +17,7 @@ Learners will learn about:
 
 [Kaggle Advanced SQL](https://www.kaggle.com/learn/advanced-sql)
 
-### DEVELOPING SQL DATABASES VIA EDX
+### SQL for DataScience
 A good course that is extremely rich and free
 
 What you'll learn <br>
