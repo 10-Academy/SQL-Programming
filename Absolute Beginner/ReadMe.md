@@ -22,3 +22,7 @@ In this SQL Tutorial for Beginners you will learn SQL from scratch with examples
 <li>IN & BETWEEN OPERATORS </li>
 <li> ALIASES IN SQL </li>
 </ol>
+
+You can also check this out SQL
+
+[kudavenkat playlist (first 16)](https://www.youtube.com/playlist?list=PL08903FB7ACA1C2FB)
