@@ -23,6 +23,6 @@ In this SQL Tutorial for Beginners you will learn SQL from scratch with examples
 <li> ALIASES IN SQL </li>
 </ol>
 
-You can also check this out SQL
+You can also check out SQL the below linked youtube series explaining how to become proficient in the use of SQL
 
 [kudavenkat playlist (first 16)](https://www.youtube.com/playlist?list=PL08903FB7ACA1C2FB)
