@@ -1,6 +1,3 @@
-These categories of learners have basic understanding of SQL, have written SQL codes before, Know how to interact with SQL tables using SQL codes, understand 
-different kinds of table relationships
-
 ### Putting it together
 The Intermediate SQL Tutorial
 Welcome to the Intermediate SQL Tutorial! If you skipped the Basic SQL Tutorial, you should take a quick peek at this page to get an idea of how to use Mode's SQL editor to get the most out of this tutorial. For convenience, here's the gist:
@@ -31,3 +28,12 @@ How to use string patterns and ranges to query data<br>
 How to sort and group data in result sets and by data type<br>
 How to analyze data using Python
 [Visit the Website](https://www.edx.org/course/sql-for-data-science?index=product&queryID=42e15053a99ff47b84694f319f1bb15b&position=6)
+
+Do you want to move to a job that uses SQL? Are you unsure about what to expect during the job interview or how to benchmark your knowledge?
+This article will give you a good idea of where you stand.
+
+If you feel stuck in your job, you’re not the only one. The modern division of work pushes people to perform very specific tasks,
+expecting them not to look at what's on the other side.
+
+[SQL Interview Questions](https://learnsql.com/blog/advanced-sql-interview-questions-with-answers/)
+
